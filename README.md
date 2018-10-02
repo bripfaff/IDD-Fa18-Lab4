@@ -8,7 +8,7 @@ To submit your lab, clone [this repository](https://github.com/FAR-Lab/IDD-Fa18-
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your virbation motor**
+[Video Link](https://youtu.be/z2k8zbgrRYs)
 
 ## Part B. Actuating Servo motors
 
@@ -37,6 +37,8 @@ so the Speed of movement is ```     delay(50); ``` function in the code where as
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
+
+[Video Link](https://youtu.be/UgrIbWNuu6k)
 
 ## Part E. Make it your own
 
